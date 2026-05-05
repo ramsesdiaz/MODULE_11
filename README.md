@@ -44,6 +44,8 @@ This analysis indicates the market value is not driven by arbitrary features but
 - Transmission type
 - Cylinders
 
+<img src="images/What_Actually_Drives_the_Price.png" alt="Upward Drivers" width="500"/>
+
 ![Upward Drivers](images/What_Actually_Drives_the_Price.png)
 *Figure 1: What Drives the Price of a Car High*
 
@@ -73,7 +75,7 @@ While our automated pricing model performs with high accuracy for standard inven
 **Operational Insight**: For standard inventory, it is ok to rely on automated pricing tools. For luxury/collector inventory, our analysis shows the market is too fragmented for automated averages. We recommend a different pricing strategy for this segment (needs further exploration).
 
 
-###NEXT STEPS & RECOMMENDATIONS
+### NEXT STEPS & RECOMMENDATIONS
 
 Here are some recommendations to ensure this project delivers lasting value
 
